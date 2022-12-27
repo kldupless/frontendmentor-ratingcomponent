@@ -1,0 +1,15 @@
+$orange: hsl(25, 97%, 53%);
+$white: hsl(0, 0%, 100%);
+$lightgrey: hsl(217, 12%, 63%);
+$medgrey: hsl(216, 12%, 54%);
+$darkblue: hsl(213, 19%, 18%);
+$vdarkblue: hsl(216, 12%, 8%);
+
+$font-stack: 'Overpass', sans-serif;
+
+body {
+    font-family: $font-stack;
+    font-weight: 400;
+    color: $white;
+    font-size: 15px;
+}
